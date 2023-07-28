@@ -14,7 +14,7 @@
 
 A few queries into a digital music store database called Chinook, assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information.
 
-![Database Schema](https://ibb.co/3zTRYTw)
+![Database Schema](https://www.dropbox.com/scl/fi/a5qvu4f8esnq3vaykrsik/chinookschema.png?rlkey=w6wa7ch0582mhpvh9oky32i36&dl=0)
 
 ## Features
 
