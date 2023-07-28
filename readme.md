@@ -14,6 +14,8 @@
 
 A few queries into a digital music store database called Chinook, assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information.
 
+![Database Schema](https://ibb.co/3zTRYTw)
+
 ## Features
 
 A few of the things you can do with GitPoint:
